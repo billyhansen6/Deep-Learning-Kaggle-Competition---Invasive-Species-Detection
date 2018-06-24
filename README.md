@@ -9,8 +9,14 @@ My third attempt was to use transfer learning to harness the weights of the ResN
 My best model landed me in the top 25% of the public leaderboard on Kaggle, and gave an ROC score of nearly .99.
 
 
+Here are a couple examples of augmented images before being fed into my models.
+
 <img width="275" alt="aug" src="https://user-images.githubusercontent.com/19575713/41811882-c76170de-76cc-11e8-831d-387b9fa23ee4.png">
 
 
+Here are the training results from my best model.
 
 <img width="415" alt="results" src="https://user-images.githubusercontent.com/19575713/41811898-fc54d4f2-76cc-11e8-9f26-e1d9bf5be658.png">
+
+
+Full project is listed above.
