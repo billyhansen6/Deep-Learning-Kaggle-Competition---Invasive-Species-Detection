@@ -10,8 +10,7 @@ My best model landed me in the top 25% of the public leaderboard on Kaggle, and 
 
 One image from the dataset:
 
-
-
+![5](https://user-images.githubusercontent.com/19575713/41814706-7cfd5bb4-770a-11e8-9aaf-8609764a2d6c.jpg)
 
 Here are a couple examples of augmented images that were fed into my models:
 
